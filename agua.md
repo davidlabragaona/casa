@@ -10,3 +10,6 @@
 
 {lavado:final}
 979.7179
+
+{lavado:inicio}
+979.7179
